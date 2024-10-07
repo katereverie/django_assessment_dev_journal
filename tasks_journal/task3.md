@@ -16,3 +16,13 @@ The detail view should allow you to edit and delete the appointment.
 5. committed changes
 6. noticed loading index view takes too long.
 7. added pagination to index view and index.html
+
+## Demos: index view and detail view
+
+Index:
+
+![indexviewnow](https://github.com/user-attachments/assets/63cb285d-654c-4f52-bc53-24ad642adb1c)
+
+Detail:
+
+![detailviewnow](https://github.com/user-attachments/assets/f22bb698-e203-423e-8175-db9944e85a6e)
