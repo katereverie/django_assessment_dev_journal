@@ -1,0 +1,18 @@
+# Overview Task 3
+
+## __Appointment detail view__
+
+Add a detail view for the appointment model. This view does not exist yet, so you'll have to create it from scratch. <br>
+We don't really care for optics, in fact we only included pico.css so that the page looks somewhat nice.<br>
+
+The detail view should allow you to edit and delete the appointment.
+
+## Steps
+
+1. created detail view in views.py
+2. added URL route in urls.py
+3. created the appointment detail template under '/core/templates/core'
+4. refactored index view to include a link to detail view
+5. committed changes
+6. noticed loading index view takes too long.
+7. added pagination to index view and index.html
