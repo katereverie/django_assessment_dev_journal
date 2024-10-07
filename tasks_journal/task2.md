@@ -2,9 +2,19 @@
 
 The index page should render a list of all appointments, with required information (see table in index.html). Adjust the view ("core.views.index") and template ("core/index.html") accordingly.
 
-## 
+## Observation & Things I did
 
 Notes:
 1. The index page is at the root. Since no domain name, the base address is: "http://127.0.0.1:8000/"
    
 ![indexpageUI](https://github.com/user-attachments/assets/64480dc8-8940-41c7-85a6-befcd4bbad80)
+
+Steps:
+1. noticed a missing closing tag of `<tbody>`, so I added a `/` to the closing tag
+2. adjusted the index view
+3. adjusted the template
+4. ran server to check rendered view
+5. Under 'Kunde' and 'Mitarbeiter', saw redundant information, ex: `Kunde "Katharian Karakus"` instead of simply "Katharina Karakus".
+6. refactored `Customer` and `Employee` models to only return the name field without any other string texts
+7. ran server to check updated rendered view. No issue.
+8. committed each change with appropriate messages
