@@ -18,3 +18,4 @@ Steps:
 6. refactored `Customer` and `Employee` models to only return the name field without any other string texts
 7. ran server to check updated rendered view. No issue.
 8. committed each change with appropriate messages
+![Screenshot 2024-10-07 114543](https://github.com/user-attachments/assets/f1a212ab-2c4a-4b09-96d6-ce2a8e38667b)
