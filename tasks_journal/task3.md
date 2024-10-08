@@ -21,6 +21,7 @@ The detail view should allow you to edit and delete the appointment.
 10. fixed update issue (updating customer and employee not reflected in changes) by using `get_or_create()`
     - This is an issue with my unfamiliarty with Djangp (must deep dive)
 11. simplified __str__ method to return customer and employee name directly (probably trivial)
+12. moved back link, h2 to the middle
 
 ## Demos: index view and detail view
 
@@ -31,3 +32,4 @@ Index:
 Detail:
 
 ![detailviewnow](https://github.com/user-attachments/assets/f22bb698-e203-423e-8175-db9944e85a6e)
+![Screenshot 2024-10-08 193302](https://github.com/user-attachments/assets/e87726db-5fe6-4401-84a3-ff3e57b9dcc1)
