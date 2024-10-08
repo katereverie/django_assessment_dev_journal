@@ -1,6 +1,10 @@
-# Overview 
+# Render appointments on the index page
+
+## Task Description
 
 The index page should render a list of all appointments, with required information (see table in index.html). Adjust the view ("core.views.index") and template ("core/index.html") accordingly.
+
+Bonus: add pagination, so that large amounts of appointments are not rendered at once.
 
 ## Observation & Things I did
 
