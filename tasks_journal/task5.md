@@ -1,6 +1,6 @@
-# Overview 
+# Add a new appointment
 
-## 5. Add a new appointment
+## Task Description
 
 From the list view (index.html), add a button to create a new appointment.
 
@@ -22,3 +22,5 @@ From the list view (index.html), add a button to create a new appointment.
 14. updated employee dropdown in detail view
 15. fixed issue with empty value in employee dropdown
 16. refactored detail view to fectch employee by ID, avoiding creating new employee
+    
+![Screenshot 2024-10-08 225720](https://github.com/user-attachments/assets/a9b75d96-55a7-4e5a-aaa4-cb62b9e2354f)
