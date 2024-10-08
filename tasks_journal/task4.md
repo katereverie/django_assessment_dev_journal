@@ -1,6 +1,8 @@
-# Overview 
+# Confirm deletion
 
-From the list view (index.html), add a button to create a new appointment.
+## Task Description
+
+When an appointment is deleted, ask the user first if he really wants to do that. Any kind of confirmation is fine.
 
 ## Steps
 
