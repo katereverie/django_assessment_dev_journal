@@ -16,6 +16,11 @@ The detail view should allow you to edit and delete the appointment.
 5. committed changes
 6. noticed loading index view takes too long.
 7. added pagination to index view and index.html
+8. fixed update issue (no update) by formating date as DD.MM.YYYY to fit into HTML-friendly date format
+9. chanegd form layout, added some simple styles using Pico
+10. fixed update issue (updating customer and employee not reflected in changes) by using `get_or_create()`
+    - This is an issue with my unfamiliarty with Djangp (must deep dive)
+11. simplified __str__ method to return customer and employee name directly (probably trivial)
 
 ## Demos: index view and detail view
 
