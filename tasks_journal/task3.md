@@ -1,9 +1,8 @@
-# Overview Task 3
+# Appointment detail view
 
-## __Appointment detail view__
+## Task Description
 
-Add a detail view for the appointment model. This view does not exist yet, so you'll have to create it from scratch. <br>
-We don't really care for optics, in fact we only included pico.css so that the page looks somewhat nice.<br>
+Add a detail view for the appointment model. This view does not exist yet, so you'll have to create it from scratch. We don't really care for optics, in fact we only included pico.css so that the page looks somewhat nice.
 
 The detail view should allow you to edit and delete the appointment.
 
